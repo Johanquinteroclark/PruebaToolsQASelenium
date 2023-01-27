@@ -9,3 +9,8 @@ Agregar un registro
 Editar el formulario
 Eliminar el formulario
 Cerrar Browser 
+Se debe ejecutar el archivo ingresando en
+src/test/java luego 
+abrir carpeta Test
+Y hacer click derecho en archivo "TestTool.java"
+Posteriormente ir a "Run  As"  y  "1  JUnit Test"
